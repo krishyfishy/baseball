@@ -4,7 +4,11 @@ A final project for Yale's Analysis of Baseball Data Course
 
 ### TL;DR
 
-Trevor Bauer seemed to accuse the Astros pitching staff of using illegal substances to doctor baseballs in 2018. That same year, Gerrit Cole was a splashy acquisition for the Astros. This project compares Gerrit Cole's spin rates to those among a small group of MLB pitchers using Statcast data.  
+Trevor Bauer seemed to accuse the Astros pitching staff of using illegal substances to doctor baseballs in 2018. That same year, Gerrit Cole was a splashy acquisition for the Astros. This project compares Gerrit Cole's spin rates to those among a small group of MLB pitchers using Statcast data. 
+
+### data
+
+The .zip file in this repo contains a cleaned dataset with info for only the pitchers named in the Bubba Harkins lawsuit (see [this ESPN article](https://www.espn.com/mlb/story/_/id/30671790/fired-los-angeles-angels-clubhouse-attendant-names-pitchers-ball-doctoring-case)). If you're curious about Statcast data for more pitchers, [Baseball Savant](https://baseballsavant.mlb.com/statcast_search) has a GUI interface that lets you search all available Statcast data.
 
 ### some more elaborate background
 
